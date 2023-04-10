@@ -102,8 +102,9 @@ span {
 
 form {
     background: rgba(27, 27, 50, 0.8);
-    padding: 2.5rem 0.625rem;
+    padding: 4rem;
     border-radius: 0.25rem;
+    margin: 0 1.5rem;
 }
 
 .form-group {
@@ -164,5 +165,6 @@ form {
 @media (min-width: 480px) {
     form {
         padding: 4rem;
+        margin: 0 1.5rem;
     }
 }
